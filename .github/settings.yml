@@ -7,8 +7,8 @@
     "state": "open"
 "repository":
   "name": "skeleton"
-  "description": "[WIP] ☠️ Skeleton"
-  "topics": "ghostwriter, skeleton, wip"
+  "description": "[WIP] ☠️ Minimal Meta-Framework built on top of @Mezzio"
+  "topics": "ghostwriter, mezzio, skeleton, wip"
   "homepage": "https://github.com/ghostwriter/skeleton"
   "default_branch": "0.1.x"
   "allow_auto_merge": true
