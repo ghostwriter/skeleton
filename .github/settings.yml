@@ -1,15 +1,18 @@
 "milestones":
-  - "title": "0.1.0"
-    "description": "Minor release – targeting 0.1.x branch (semantic version: 0.1.0)"
-    "state": "open"
   - "title": "1.0.0"
     "description": "Major release – targeting 1.0.x branch (semantic version: 1.0.0)"
     "state": "open"
+  - "title": "0.1.0"
+    "description": "Minor release – targeting 0.1.x branch (semantic version: 0.1.0)"
+    "state": "open"
 "repository":
-  "name": "skeleton"
-  "description": "[WIP] ☠️ Minimal Meta-Framework built on top of @Mezzio"
-  "topics": "ghostwriter, mezzio, skeleton, wip"
-  "homepage": "https://github.com/ghostwriter/skeleton"
+  "name": "wip"
+  "description": "[WIP] Here be dragons"
+  "topics":
+    - "ghostwriter"
+    - "wip"
+    - "php"
+  "homepage": "https://github.com/ghostwriter/wip"
   "default_branch": "0.1.x"
   "allow_auto_merge": true
   "allow_forking": true
